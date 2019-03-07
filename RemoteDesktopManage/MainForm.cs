@@ -18,6 +18,9 @@ namespace RdpTest
 {
     public partial class MainForm : MetroForm
     {
+
+        //test for edit
+
         public MainForm()
         {
             InitializeComponent();
